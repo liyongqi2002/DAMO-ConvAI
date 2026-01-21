@@ -1,1 +1,1 @@
-Download the checkpoints of estimators at: https://huggingface.co/datasets/YongqiLi/RPGBench
+Download the benchmark at: https://huggingface.co/datasets/YongqiLi/RPGBench
